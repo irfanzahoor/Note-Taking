@@ -1,2 +1,5 @@
-# Note-Taking
-# Note-Taking
+
+npm i
+
+npm start 
+
